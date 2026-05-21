@@ -21,8 +21,8 @@ This project bridges the gap between **Data Engineering** and **Observational As
 
 ---
 
-### 📊 Dataset | البيانات
-* **English:** The dataset used in this project is sourced from Kaggle: [SDSS SkyServer Dataset]([https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database](https://www.kaggle.com/datasets/muhakabartay/sloan-digital-sky-survey-dr16)).
+### 📊 Dataset 
+*  The dataset used in this project is sourced from Kaggle: [SDSS SkyServer Dataset]([[https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database](https://www.kaggle.com/datasets/muhakabartay/sloan-digital-sky-survey-dr16)](https://www.kaggle.com/datasets/muhakabartay/sloan-digital-sky-survey-dr16)).
 
 ## 📊 Visualizing the Cosmic Symphony
 
