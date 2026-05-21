@@ -21,6 +21,9 @@ This project bridges the gap between **Data Engineering** and **Observational As
 
 ---
 
+### 📊 Dataset | البيانات
+* **English:** The dataset used in this project is sourced from Kaggle: [SDSS SkyServer Dataset]([https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database](https://www.kaggle.com/datasets/muhakabartay/sloan-digital-sky-survey-dr16)).
+
 ## 📊 Visualizing the Cosmic Symphony
 
 Using `Matplotlib` with shared axes grid configurations, the project generates a 2x2 comparison plot of light curves (`r`-magnitude over time) for the top four most observed objects:
