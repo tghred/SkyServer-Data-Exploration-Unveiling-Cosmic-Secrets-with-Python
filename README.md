@@ -25,7 +25,7 @@ This project bridges the gap between **Data Engineering** and **Observational As
 
 Using `Matplotlib` with shared axes grid configurations, the project generates a 2x2 comparison plot of light curves (`r`-magnitude over time) for the top four most observed objects:
 
-![Stellar Light Curves](YOUR_IMAGE_OR_PLOT_PATH_HERE)
+![Stellar Light Curves](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiGkoPRxMph2BkCAQcNINCgNUhR3HtT5Bs5GWUNNyFNhuiV52I_nVSDdV_BKRpw5GjUWicLjK2Dk6ipES-JxPXw4X2G15IelFXbGqIWryKt9D2PJlAgLEYMN8_AiGlCQteWOQAu177JBH8XTiEG5dG9TJjOOTqi-TAZtToBPFIFnZFrOIuhGCdFxEFtta_/s1280/79289.jpg)
 
 *Note: The Y-axis is inverted in accordance with astronomical magnitude conventions (lower values = higher brightness).*
 
