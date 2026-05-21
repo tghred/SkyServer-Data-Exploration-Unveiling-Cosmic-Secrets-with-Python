@@ -56,7 +56,7 @@ A detailed, narrative-driven article explaining the physics and data engineering
 
 ## 👩‍💻 Author
 * **Taghred Salah Ashry** - *Computer Engineer & Scientific Illustrator*
-* Find me on [LinkedIn](YOUR_LINKEDIN_HERE) | [Kaggle](YOUR_KAGGLE_LINK_HERE)
+* Find me on [LinkedIn](https://www.linkedin.com/in/taghred-salah-952611146/) | [Kaggle](https://www.kaggle.com/taghredsalah199)
 
 ---
 *"We are all in the gutter, but some of us are looking at the stars." — Oscar Wilde*
