@@ -86,7 +86,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Citation & Attribution
 If you use this data pipeline, code, or methodology in your academic research, papers, or projects, please provide proper attribution by citing this repository:
 
-```text
+```
 Ashry, T. S. (2026). SkyServer Data Exploration & Pipeline. GitHub repository: https://github.com/tghred/SkyServer-Data-Exploration.
 
 ```
