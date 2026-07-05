@@ -26,7 +26,9 @@ This project bridges the gap between **Data Engineering** and **Observational As
 
 Using `Matplotlib` with shared axes grid configurations, the project generates a 2x2 comparison plot of light curves (`r`-magnitude over time) for the top most observed objects, showcasing the regular dips of the eclipsing binary:
 
-![Stellar Light Curves](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiGkoPRxMph2BkCAQcNINCgNUhR3HtT5Bs5GWUNNyFNhuiV52I_nVSDdV_BKRpw5GjUWicLjK2Dk6ipES-JxPXw4X2G15IelFXbGqIWryKt9D2PJlAgLEYMN8_AiGlCQteWOQAu177JBH8XTiEG5dG9TJjOOTqi-TAZtToBPFIFnZFrOIuhGCdFxEFtta_/s1280/79289.jpg)
+![Stellar Light Curves]([https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiGkoPRxMph2BkCAQcNINCgNUhR3HtT5Bs5GWUNNyFNhuiV52I_nVSDdV_BKRpw5GjUWicLjK2Dk6ipES-JxPXw4X2G15IelFXbGqIWryKt9D2PJlAgLEYMN8_AiGlCQteWOQAu177JBH8XTiEG5dG9TJjOOTqi-TAZtToBPFIFnZFrOIuhGCdFxEFtta_/s1280/79289.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYBss9b9-U0kX2lHaodsx3a9C-KgMSvawLI2Tlgy8sMR-CwGNNPS7lfGs71dLWVZt53kqVaSfuddiY1kK4oP0ww31k6KaI5CgxNf0_V2vpR9KHASP5AyT6pB7rIfArPGhnzmL6m_IcMSZ7sZTsp1H3v616GvLrPCJ7wgfnX-0hiYXLzPM9oihUA0LhZY_-/s783/92144.jpg))
+
+![EDA Data SDSS SkyServer Celestial Bodies](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy0nIdPKrFzjbplTEMrFVQJSW3jHB83j8sJ8tbhUlgvWTDgCG7ox088SCQjtEC9YsdHXwP28kblAs2RZGqzSIat1bQZdwk4yIEyI-2Egnqwl_BAkOt69LfBka3Gruw3UKOILq8ewbvyIdXt1uM3-lrp3h5QDSWTIe4xJNWxhSeyheVMN0h3xIhyRLBgOKr/s807/92145.jpg)
 
 *Note: The Y-axis is inverted in accordance with astronomical magnitude conventions (lower values = higher brightness).*
 
