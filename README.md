@@ -30,6 +30,8 @@ Using `Matplotlib` with shared axes grid configurations, the project generates a
 
 ![EDA Data SDSS SkyServer Celestial Bodies](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy0nIdPKrFzjbplTEMrFVQJSW3jHB83j8sJ8tbhUlgvWTDgCG7ox088SCQjtEC9YsdHXwP28kblAs2RZGqzSIat1bQZdwk4yIEyI-2Egnqwl_BAkOt69LfBka3Gruw3UKOILq8ewbvyIdXt1uM3-lrp3h5QDSWTIe4xJNWxhSeyheVMN0h3xIhyRLBgOKr/s807/92145.jpg)
 
+
+![Pairplot for object 1237659326031200000](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDPalxICPVTszrxpBXt86UAFeLvQROSAev_j3MsJ7Sst6lVXWGsSpJ6riQnfm22TG0g8ic8UJxNBATSpHHjoqX7dGNLDkRsfLRNiM9T11kRyJE9OHo51ezUr_kz6esmkJE3SAQuoiQunyFvF2YJSfmc4nE53Uc2st7KBkocp4n7KpmLANQI6LSYuTna_zf/s567/92146.jpg)
 *Note: The Y-axis is inverted in accordance with astronomical magnitude conventions (lower values = higher brightness).*
 
 ---
